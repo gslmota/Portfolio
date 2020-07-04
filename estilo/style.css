@@ -2,3 +2,13 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: medium;
 }
+body{
+    background-color: black;
+}
+main{
+    background-color: blue;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.425);
+}
