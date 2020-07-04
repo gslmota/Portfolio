@@ -2,7 +2,14 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: medium;
 }
+header{
+    color: white;
+}
 
+article{
+    color: red;
+}
 body{
     background-image: url(fundo.jpg);
+    background-color: rgb(37, 35, 35);
 }
