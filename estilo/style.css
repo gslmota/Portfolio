@@ -2,10 +2,15 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: medium;
 }
-body{
-    background-color: black;
-    background-image: ;
+#timagem{
+    width: 400px;
+    height: 300px;
+    background-image: url(fundo.jpg);
 }
+body{
+    background-color: #082767;
+}
+
 main{
     background-color: blue;
     width: 500px;
